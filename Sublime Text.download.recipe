@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>Sublime Text</string>
+		<string>Sublime Text Version 3</string>
 		<key>SPARKLE_FEED_URL</key>
 		<string>https://www.sublimetext.com/updates/3/stable/appcast_osx.xml</string>
 	</dict>
