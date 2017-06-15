@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Sublime Text.</string>
 	<key>Identifier</key>
-	<string>edu.psu.ems.download.SublimeTextV3</string>
+	<string>edu.psu.ems.download.SublimeText</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
